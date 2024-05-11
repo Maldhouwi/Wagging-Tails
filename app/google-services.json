@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002099076465",
+    "project_id": "wagging-tails-application",
+    "storage_bucket": "wagging-tails-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002099076465:android:979d947ed98fbe04a59ad0",
+        "android_client_info": {
+          "package_name": "com.example.waggingtailsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeVkxwkmRm78n9go5awhJ6UW0Q1idyE6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
